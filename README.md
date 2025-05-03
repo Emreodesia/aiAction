@@ -25,6 +25,8 @@ Aicado works effortlessly with platforms like Wix, WordPress, and Shopify — so
 🔗 Discover more at aicado.ai
 
 💡Output 
+
+
 ![yUwWwTpiBDPVgqrA6x2x8](https://github.com/user-attachments/assets/1a99603d-d8e6-428b-bdfa-00f5d94aed7c)
 
 
